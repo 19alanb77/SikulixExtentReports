@@ -1,0 +1,6 @@
+username(0)domain(1),appname(2)
+Test23;domain2;userApp
+search_surname(3),search_forename(4),search_gender(5),search_postcode(6),search_dateOfBirth(7)
+TEST;ABUSER;Male;053OH;07/07/1995
+mobileNumber(8),addressFlat(9),addressStreet(10),addressCity(11),addressCountry(12),addressPostcode(13)
+1234567890;4;5;Oslo;Norway;053OH
